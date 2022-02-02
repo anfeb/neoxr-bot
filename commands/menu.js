@@ -18,8 +18,8 @@ exports.run = {
             client.menu[id] = [
                await client.sendTemplateButton(m.chat, global.setting.cover, menu(isPrefix, m, readmore, setting), '', [{
                      urlButton: {
-                        displayText: `Script`,
-                        url: `https://github.com/neoxr/neoxr-bot`
+                        displayText: `Follow`,
+                        url: `https://instagram.com/anfebn`
                      }
                   },
                   {
